@@ -60,7 +60,7 @@ class Funcionario
     }
     public function MostrarDados()
     {
-        "Seu nome é : ".$nome. " " "Sua cidade é :" .$cidade. " " "Seu salario por horas trabalhadas são: " .$horasTrabalhadas.
+        "Seu nome é : ".$nome. " " "Sua cidade é: " .$cidade. " " "Seu salario por horas trabalhadas são: " .$horasTrabalhadas.
         " " "Suas horas trabalhadas são: " .$horasTrabalhadas. " " " E por fim seu salario final é :".$salarioFinal.
     }
     public function DarAumentoAoFuncionario($aumento)
